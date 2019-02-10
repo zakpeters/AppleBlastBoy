@@ -18,4 +18,7 @@ In this game the player takes on the role of Steve Jobs as he combats the enemie
 * When the application is backgrounded the user can either opt to start a new game or resume their prior game.
 * High Score support.
 
-![gameplay.gif](https://github.com/zakpeters/AppleBlastBoy/blob/master/gameplay.gif?raw=true)
+
+| Start Screen | Gameplay | High Scores |
+| ------------- | ------------- | ------------- |
+![startscreen.png](https://github.com/zakpeters/AppleBlastBoy/blob/master/screenshots/startscreen.png?raw=true) | ![gameplay.gif](https://github.com/zakpeters/AppleBlastBoy/blob/master/screenshots/gameplay.gif?raw=true) | ![highscore.png](https://github.com/zakpeters/AppleBlastBoy/blob/master/screenshots/highscore.png?raw=true) 
